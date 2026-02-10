@@ -1,16 +1,34 @@
-# popup_menu_button
+# Popup Menu Button Demo
 
-A new Flutter project.
+A simple Flutter demo showcasing the **PopupMenuButton** widget.
 
-## Getting Started
+## 🚀 Run Instructions
+1. Clone the repo:
+   ```bash
+   > git clone https://github.com/ai-ngabo/Popup_Menu_Button.git 
+   ```
+   
+2. Navigate into the project:
+   ```bash
+   > cd Popup_Menu_Button
+   ```
+    
+3. Run the app:
+   ```bash
+   > flutter run
+   ```
 
-This project is a starting point for a Flutter application.
+## 🎯 Widget Attributes
 
-A few resources to get you started if this is your first Flutter project:
+This demo highlights three properties of :
+1. 	**itemBuilder** – defines the list of menu items shown when the button is tapped.
+2. 	**onSelected** – callback triggered when a menu item is chosen.
+3. 	**icon** – customizes the icon displayed for the popup menu button.
+      Each property is demonstrated live in the app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 📅 Presentation Date
+
+    Presented on: [9th Febuary, 2026]
