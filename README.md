@@ -30,6 +30,7 @@ This demo highlights three properties of :
 ![Pic 1](screenshots/screenshot1.png )
 ![Pic 2](screenshots/screenshot2.png)
 ![Pic 3](screenshots/screenshot3.png)
+![Pic 4](screenshots/screenshot4.png)
 
 ## 📅 Presentation Date
 
