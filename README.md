@@ -27,7 +27,9 @@ This demo highlights three properties of :
       Each property is demonstrated live in the app.
 
 ## 📸 Screenshots
-
+![Pic 1](screenshots/screenshot1.png)
+![Pic 2](screenshots/screenshot2.png)
+![Pic 3](screenshots/screenshot3.png)
 
 ## 📅 Presentation Date
 
