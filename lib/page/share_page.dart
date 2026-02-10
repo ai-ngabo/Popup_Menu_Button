@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// Page for Share
 class SharePage extends StatelessWidget {
   const SharePage({super.key});
 

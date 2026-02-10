@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// page for SignOut
 class SignOutPage extends StatelessWidget {
   const SignOutPage({super.key});
 
